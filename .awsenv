@@ -1,0 +1,9 @@
+export ec2_image='ami-7abd0209'
+export ec2_region='eu-west-1'
+export ec2_security_groups="['default']"
+export ec2_keypair='gitlab'
+export ec2_instance_type='m4.large'
+export ec2_master_instance_type='m4.large'
+export ec2_infra_instance_type='m4.large'
+export ec2_node_instance_type='m4.large'
+export ec2_etcd_instance_type='m4.large'
